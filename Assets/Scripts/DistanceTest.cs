@@ -11,13 +11,13 @@ public class DistanceTest : MonoBehaviour
 
     void Start()
     {
-        GameObject obj =  GameObject.FindGameObjectWithTag("Player");
+        GameObject obj = GameObject.FindGameObjectWithTag("Player");
         m_distanceComparer.SetTarget(obj.transform);
 
         m_sphereList.AddRange(GetComponentsInChildren<Transform>(true));
         m_sphereList.Sort(m_distanceComparer);
 
-        for(int i = 0; i< m_sphereList.Count; ++ i )
+        for(int i = 0; i< m_sphereList.Count; ++i)
             Debug.Log(m_sphereList[i].position.magnitude);
     }
 

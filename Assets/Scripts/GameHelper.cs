@@ -65,7 +65,7 @@ public class GameHelper : MonoBehaviour
                 yield return null;
             }
 
-            BaseChar hero = GameObject.Instantiate( request.asset as BaseChar, pos, rot, parent);
+            BaseChar hero = Instantiate(request.asset as BaseChar, pos, rot, parent);
             refChar = hero;
             // 캐릭터에 대한 정보를 설정하는 코드가 차후 추가될 예정입니다.
 

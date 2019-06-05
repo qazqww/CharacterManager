@@ -6,5 +6,5 @@ public interface IBaseMng<T, MSG>
 {
     T Add(int uniqueIdx, int tableIdx, T t);
     void Remove(int uniqueIdx);
-    void Update(int uniqueIdx, MSG msg);
+    T[] Update(int uniqueIdx, MSG msg);
 }
