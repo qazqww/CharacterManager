@@ -1,0 +1,13 @@
+﻿IDX,ATTACK,ATTACKDISTANCE,EFFECTIVEDIST,ATTACKSPEED,DEFENSE,HP,BLEEDINGINTERVAL,BLEEDINGTIME,BLEEDINGPRO,CRITICALPRO,CIRITICALDAM,MOVESPEED,HITEFFECT,PROJECTILEEFFECT,PREFAB,SCALE,ICON
+0,36,4,1.14,1,2.4,264,0.1,1,100,20,50,1,-1,-1,Prefabs/0,1,Images/Hero/archer1
+1,36,4,1.14,1,2.4,264,0.1,1,10,20,50,1,-1,-1,Prefabs/CharPrefabs/Player/archer02,1,Images/Hero/archer2
+2,54,2,1.14,1,4,480,0.2,1,20,20,50,2,-1,-1,Prefabs/CharPrefabs/Player/gladiator01,1,Images/Hero/archer3
+3,36,4,1.14,1,2.4,264,0,0,0,20,50,1,-1,-1,Prefabs/CharPrefabs/Player/archer01,1,Images/Hero/archer1
+4,36,4,1.14,1,2.4,264,0.1,1,10,20,50,1,-1,-1,Prefabs/CharPrefabs/Player/archer02,1,Images/Hero/archer2
+5,54,2,1.14,1,4,480,0.2,1,20,20,50,2,-1,-1,Prefabs/CharPrefabs/Player/gladiator01,1,Images/Hero/archer3
+6,36,4,1.14,1,2.4,264,0,0,0,20,50,1,-1,-1,Prefabs/CharPrefabs/Player/archer01,1,Images/Hero/archer1
+7,36,4,1.14,1,2.4,264,0.1,1,10,20,50,1,-1,-1,Prefabs/CharPrefabs/Player/archer02,1,Images/Hero/archer2
+8,54,2,1.14,1,4,480,0.2,1,20,20,50,2,-1,-1,Prefabs/CharPrefabs/Player/gladiator01,1,Images/Hero/archer3
+9,36,4,1.14,1,2.4,264,0,0,0,20,50,1,-1,-1,Prefabs/CharPrefabs/Player/archer01,1,Images/Hero/archer1
+10,36,4,1.14,1,2.4,264,0.1,1,10,20,50,1,-1,-1,Prefabs/CharPrefabs/Player/archer02,1,Images/Hero/archer2
+11,54,2,1.14,1,4,480,0.2,1,20,20,50,2,-1,-1,Prefabs/CharPrefabs/Player/gladiator01,1,Images/Hero/archer3
